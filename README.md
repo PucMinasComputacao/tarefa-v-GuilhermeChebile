@@ -1,26 +1,22 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/z9sTQdL4)
-# Trabalho Prático - Semana 5
+Nome: Guilherme Luiz Santos Chebile
+Matrícula: 908179
+Proposta de projeto escolhida: Proposta 3 - Organizações e Equipes.
+Descrição do projeto: Site para uma agência de marketing.
 
-Dessa vez, vamos dar sequência ao projeto iniciado na semana passada. Se você ainda não fez o projeto da semana anterior, fique atento, se programe e procure colocar as atividades em dia. Volte lá, leia tudo e faça sua parte pois essa atividade depende da atividade anterior..
+Print desktop:
 
-Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto no celular quanto no desktop, entendendo também como é o processo gradativo e colaborativo de desenvolvimento de um software, registrando cada etapa no histórico de commits do repositório do git/GitHub.
+![Print 1](/Public/imgs/print1-desktop.png)
 
-**IMPORTANTE:** Você deve trabalhar e alterar apenas arquivos dentro da pasta **`public`,** mantendo os arquivos **`index.html`** e **`styles.css`** com estes nomes. Deixe todos os demais arquivos e pastas desse repositório inalterados. **PRESTE MUITA ATENÇÃO NISSO.**
+![Print 2](/Public/imgs/print2-desktop.png)
 
-## Informações Gerais
+Print responsividade:
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+![Print responsividade 1](/Public/imgs/print-1-responsividade.png)
 
-## Print da versão responsiva com CSS puro [DESKTOP]
+![Print responsividade 2](/Public/imgs/print-2-responsividade.png)
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Print responsividade 3](/Public/imgs/print-3-responsividade.png)
 
-## Print da versão responsiva com CSS puro [MOBILE] (*)
+![Print responsividade 4](/Public/imgs/print-4-responsividade.png)
 
-<<  COLOQUE A IMAGEM AQUI >>
-
-
-(*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
+![Print responsividade 5](/Public/imgs/print-5-responsividade.png)
