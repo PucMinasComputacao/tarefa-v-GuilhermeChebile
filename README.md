@@ -5,18 +5,18 @@ Descrição do projeto: Site para uma agência de marketing.
 
 Print desktop:
 
-![Print 1](/Public/imgs/print1-desktop.png)
+![Print 1](./public/imgs/print1-desktop.png)
 
-![Print 2](/Public/imgs/print2-desktop.png)
+![Print 2](/public/imgs/print2-desktop.png)
 
 Print responsividade:
 
-![Print responsividade 1](/Public/imgs/print-1-responsividade.png)
+![Print responsividade 1](/public/imgs/print-1-responsividade.png)
 
-![Print responsividade 2](/Public/imgs/print-2-responsividade.png)
+![Print responsividade 2](/public/imgs/print-2-responsividade.png)
 
-![Print responsividade 3](/Public/imgs/print-3-responsividade.png)
+![Print responsividade 3](/public/imgs/print-3-responsividade.png)
 
-![Print responsividade 4](/Public/imgs/print-4-responsividade.png)
+![Print responsividade 4](/public/imgs/print-4-responsividade.png)
 
-![Print responsividade 5](/Public/imgs/print-5-responsividade.png)
+![Print responsividade 5](/public/imgs/print-5-responsividade.png)
